@@ -11,9 +11,8 @@ bir sistem.
 * Tarayıcımızın adres çubuğuna localhost/phpmyadmin yazarak SQL komutlarımızı yazacağımız siteye ulaşıyoruz.
 * Sitenin üst kısmındaki seçeneklerden SQL yazan kısma tıklayıp, GitHub'dan indirdiğiniz klasörün alt dizininde bulunan database klasörü içindeki database.sql dosyasında bulunan kodları buraya yapıştırıyoruz ve sağ alttan Git butonuna tıklayarak veritabanımızı ve tablolarımızı oluşturuyoruz. 
 * Ardından GitHub'dan indirdiğimiz kaynak kodlarını, içi boşaltılmış olan xampp/htdocs klasörüne atıyoruz.
-* Sonrasında ise tarayıcımızın adres çubuğuna localhost yazıp siteye ulaşıyoruz.
+* Sonrasında ise tarayıcımızın adres çubuğuna localhost/hayvanat-bahcesi-takip-sistemi-main yazıp siteye ulaşıyoruz.
 * Sitemi artık istediğiniz gibi kullanabilirsiniz.
- > NOT: Eğer htdocs klasörümüzün içi boşaltılmadıysa GitHub'dan indirilen kaynak kodlarını htdocs klasörü altında yeni bir klasör içine atıp, adres çubuğuna ise attığınız klasör adına bağlı olarak localhost/klasoradi yazarak ulaşabiliriz.
 
 ## Kullandığım Web Siteleri
 * [seeklogo](https://seeklogo.com/free-vector-logos/zoo) - Iconu ve logoyu aldığım web sitesi.
