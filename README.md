@@ -13,7 +13,6 @@ bir sistem.
 * Ardından GitHub'dan indirdiğimiz kaynak kodlarını, içi boşaltılmış olan xampp/htdocs klasörüne atıyoruz.
 * Sonrasında ise tarayıcımızın adres çubuğuna localhost/hayvanat-bahcesi-takip-sistemi-main yazıp siteye ulaşıyoruz.
 * Sitemi artık istediğiniz gibi kullanabilirsiniz.
- > NOT: Eğer htdocs klasörümüzün içi boşaltılmadıysa GitHub'dan indirilen kaynak kodlarını htdocs klasörü altında yeni bir klasör içine atıp, adres çubuğuna ise attığınız klasör adına bağlı olarak localhost/klasorAdi/hayvanat-bahcesi-takip-sistemi-main yazarak ulaşabiliriz.
 
 ## Kullandığım Web Siteleri
 * [seeklogo](https://seeklogo.com/free-vector-logos/zoo) - Iconu ve logoyu aldığım web sitesi.
