@@ -35,14 +35,14 @@ bir sistem.
 * Veritabanına hayvan kaydetme
 ## Web Sitemden Görseller
 * ### Giriş Ekranı
-  ![](#)
+  ![](readmeImages/index.png)
 * ### Admin Ekranı
-  ![](#)
+  ![](readmeImages/adminPage.png)
 * ### Üye Ekranı
-  ![](#)
+  ![](readmeImages/userPage.png)
 * ### Kayıtlı Hayvanları Görüntüleme
-  ![](#)
+  ![](readmeImages/showAnimals.png)
 * ### Kayıtlı Üyeleri Görüntüleme
-  ![](#)
+  ![](readmeImages/showUsers.png)
 ## Yazar
 * [Eren Köse](https://tr.linkedin.com/in/eren-k%C3%B6se-338936252?trk=people-guest_people_search-card) - Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi
