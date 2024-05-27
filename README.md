@@ -5,7 +5,7 @@ alışkanlıklarını, yaşam alanlarını ve diğer verilerini izlemek, kaydetm
 bir sistem.
 > NOT: Bu web sitesi Bootstrap front-end kütüphanesi kullanılarak yazılmıştır. 
 ## Site Kullanış Videosu Linki
-* [Kullanış Videosu Linki](#) - Sitenin kullanış videosuna yandaki linke tıklayarak ulaşabilirsiniz.
+* [Kullanış Videosu Linki](https://youtu.be/qEXkgVCYsDw) - Sitenin kullanış videosuna yandaki linke tıklayarak ulaşabilirsiniz.
 ## Sitenin XAMPP İle Kullanılışı
 * Öncelikle XAMPP uygulamasından Apache ve MySQL Database serverlarını başlatıyoruz.
 * Tarayıcımızın adres çubuğuna localhost/phpmyadmin yazarak SQL komutlarımızı yazacağımız siteye ulaşıyoruz.
