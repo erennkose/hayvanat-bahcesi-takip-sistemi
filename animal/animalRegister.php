@@ -67,7 +67,7 @@
                             <br>
                             <label><b>Hayvanın Türü:</b></label>&nbsp<input type="text" class="form-control" id="species" name="species">
                             <br>
-                            <label><b>Hayvanın Cinsiyeti:</b></label>&nbsp<input type="text" class="form-control" id="gender" name="gender">
+                            <label><b>Hayvanın Cinsiyeti:</b></label>&nbsp<input type="text" class="form-control" id="gender" name="gender" maxlength="7">
                             <br>
                             <label><b>Hayvanın Doğum Tarihi:</b></label>&nbsp<input type="date" class="form-control" id="bday" name="bday">
                             <br>
@@ -113,7 +113,7 @@
                             <br>
                             <label><b>Hayvanın Türü:</b></label>&nbsp<input type="text" class="form-control" id="species" name="species">
                             <br>
-                            <label><b>Hayvanın Cinsiyeti:</b></label>&nbsp<input type="text" class="form-control" id="gender" name="gender">
+                            <label><b>Hayvanın Cinsiyeti:</b></label>&nbsp<input type="text" class="form-control" id="gender" name="gender" maxlength="7">
                             <br>
                             <label><b>Hayvanın Doğum Tarihi:</b></label>&nbsp<input type="date" class="form-control" id="bday" name="bday">
                             <br>
