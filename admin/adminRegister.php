@@ -42,7 +42,7 @@
             <form action="adminSigningUp.php" method="POST">
                 <label><b>Kullanıcı Adı:</b></label>&nbsp<input type="text" class="form-control" id="username" name="username">
                 <br>
-                <label><b>TC No:</b></label>&nbsp<input type="text" class="form-control" id="tcno" name="tcno">
+                <label><b>TC No:</b></label>&nbsp<input type="text" class="form-control" id="tcno" name="tcno" maxlength="11">
                 <br>
                 <label><b>E Mail:</b></label>&nbsp<input type="email" class="form-control" id="email" name="email">
                 <br>
@@ -50,7 +50,7 @@
                 <br>
                 <label><b>Soyad:</b></label>&nbsp<input type="text" class="form-control" id="lname" name="lname">
                 <br>
-                <label><b>Tel No:</b></label>&nbsp<input type="text" class="form-control" id="phone" name="phone">
+                <label><b>Tel No:</b></label>&nbsp<input type="text" class="form-control" id="phone" name="phone" maxlength="10">
                 <br>
                 <label><b>Doğum Günü:</b></label>&nbsp<input type="date" class="form-control" id="bday" name="bday">
                 <br>
