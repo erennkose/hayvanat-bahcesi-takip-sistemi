@@ -117,7 +117,7 @@
                 <form  action="" method="POST">
                     <label><b>Üye Kullanıcı Adı:</b></label>&nbsp<input type="text" class="form-control" id="username" name="username" value="' . $infoArray['User_Name'] .'" required>
                     <br><br>
-                    <label><b>Üye TC No:</b></label>&nbsp<input type="text" class="form-control" id="tcno" name="tcno" value="' . $infoArray['Tc_No'] . '" required>
+                    <label><b>Üye TC No:</b></label>&nbsp<input type="text" class="form-control" id="tcno" name="tcno" maxlength="11" value="' . $infoArray['Tc_No'] . '" required>
                     <br><br>
                     <label><b>Üye E-Mail:</b></label>&nbsp<input type="text" class="form-control" id="email" name="email" value="' . $infoArray['E_Mail'] . '" required>
                     <br><br>
@@ -125,7 +125,7 @@
                     <br><br>
                     <label><b>Üye Soyad:</b></label>&nbsp<input type="text" class="form-control" id="lname" name="lname" value="' . $infoArray['Last_Name'] . '" required>
                     <br><br>
-                    <label><b>Üye Telefon Numarası:</b></label>&nbsp<input type="text" class="form-control" id="phone" name="phone" value="' . $infoArray['GSM_No'] . '" required>
+                    <label><b>Üye Telefon Numarası:</b></label>&nbsp<input type="text" class="form-control" id="phone" name="phone" maxlength="10" value="' . $infoArray['GSM_No'] . '" required>
                     <br><br>
                     <label><b>Üye Doğum Tarihi:</b></label>&nbsp<input type="date" class="form-control" id="bday" name="bday" value="' . $infoArray['Birth_Date'] . '" required>
                     <br><br>
